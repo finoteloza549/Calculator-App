@@ -1,6 +1,6 @@
 # Calculator-App
 
-A modern, responsive calculator built with **HTML, CSS, and JavaScript.  
+A modern, responsive calculator built with HTML, CSS, and JavaScript.  
 It supports basic arithmetic operations, keyboard input, dark/light mode, and a clean user-friendly interface.
 
 ##  Features
