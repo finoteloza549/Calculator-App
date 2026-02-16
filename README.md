@@ -1,6 +1,6 @@
 # Calculator-App
 
-A modern, responsive calculator built with **HTML, CSS, and JavaScript**.  
+A modern, responsive calculator built with **HTML, CSS, and JavaScript.  
 It supports basic arithmetic operations, keyboard input, dark/light mode, and a clean user-friendly interface.
 
 ##  Features
@@ -14,7 +14,7 @@ It supports basic arithmetic operations, keyboard input, dark/light mode, and a 
  - Formatted numbers with commas  
  - Local storage theme saving  
 
-## 🛠️ Built With
+##  Built With
 
 - HTML5  
 - CSS3 (Responsive UI & Themes)  
@@ -40,6 +40,7 @@ The layout adjusts smoothly for:
 
 ## Author
 Finoteloza 
+
 Aspiring Web Developer
 ```bash
 git clone https://github.com/your-username/calculator-app.git
