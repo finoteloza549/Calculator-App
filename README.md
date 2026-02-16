@@ -42,5 +42,3 @@ The layout adjusts smoothly for:
 Finoteloza 
 
 Aspiring Web Developer
-```bash
-git clone https://github.com/your-username/calculator-app.git
